@@ -1,7 +1,7 @@
 <?php
 /** 
 * Classe que monta o template
-* @author Evandro L. Gonçalves, Eduardo Zanona
+* @author Evandro L. Gonçalves
 * @access public
 */ 
 class ITemplate{

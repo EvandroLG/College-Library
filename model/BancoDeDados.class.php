@@ -1,7 +1,7 @@
 <?php
 /** 
 * Classe retorna Banco de Dados
-* @author Evandro L. Gonçalves, Eduardo Zanona
+* @author Evandro L. Gonçalves
 * @access public
 */ 
 class BancoDeDados{

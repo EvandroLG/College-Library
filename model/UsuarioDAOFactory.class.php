@@ -4,7 +4,7 @@ require_once("AlunoDAO.class.php");
 require_once("SecretariaDAO.class.php");
 /** 
 * Classe 'fabrica' objetos AlunoDAO, ProfessorDAO e SecretariaDAO
-* @author Evandro L. Gonçalves, Eduardo Zanona
+* @author Evandro L. Gonçalves
 * @access public
 */ 
 class UsuarioDAOFactory{

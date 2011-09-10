@@ -6,7 +6,7 @@ require_once("Sessao.class.php");
 
 /** 
 * Classe que implementa as funções p/ validar dados do aluno
-* @author Evandro L. Gonçalves, Eduardo Zanona
+* @author Evandro L. Gonçalves
 * @access public
 */ 
 class UserUsuario{

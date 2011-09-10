@@ -1,7 +1,7 @@
 <?php
 /** 
 * Classe retorna e altera propriedades do Livro
-* @author Evandro L. Gonçalves, Eduardo Zanona
+* @author Evandro L. Gonçalves
 * @access public
 */ 
 class Livro{

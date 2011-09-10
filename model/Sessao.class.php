@@ -1,7 +1,7 @@
 <?php
 /** 
 * Classe que que trabalha com as sessões do sistema
-* @author Evandro L. Gonçalves, Eduardo Zanona
+* @author Evandro L. Gonçalves
 * @access public
 */ 
 class Sessao{

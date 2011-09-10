@@ -4,7 +4,7 @@ require_once("Professor.class.php");
 
 /** 
 * Classe retorna e altera dados do Professor no Banco de Dados
-* @author Evandro L. Gonçalves, Eduardo Zanona
+* @author Evandro L. Gonçalves
 * @access public
 */ 
 class ProfessorDAO{

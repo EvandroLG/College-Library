@@ -3,7 +3,7 @@ require_once("BancoDeDados.class.php");
 require_once("AlunoDAO.class.php");
 /** 
 * Classe que implementa as funções que uma secretaria pode fazer
-* @author Evandro L. Gonçalves, Eduardo Zanona
+* @author Evandro L. Gonçalves
 * @access public
 */ 
 class SecretariaDAO{

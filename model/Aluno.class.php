@@ -3,7 +3,7 @@ require_once("Usuario.class.php");
 
 /** 
 * Classe retorna e altera propriedades do Aluno
-* @author Evandro L. Gonçalves, Eduardo Zanona
+* @author Evandro L. Gonçalves
 * @access public
 */ 
 class Aluno implements Usuario{
